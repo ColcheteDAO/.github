@@ -4,17 +4,17 @@ labels:
   - enhancement
 body:
   - type: textarea
-  attributes:
-    label: What is this feature about?
-    description: Explain what is needed to enhance
-  validations:
-    required: true
+    attributes:
+      label: What is this feature about?
+      description: Explain what is needed to enhance
+    validations:
+      required: true
  - type: textarea
    attributes:
      value: |
       - [ ] task 1
       - [ ] task 2
-    label: What are the steps to do the feature?
-    description: List all needed tasks to be done for this feature
+     label: What are the steps to do the feature?
+     description: List all needed tasks to be done for this feature
    validations:
-    required: true
+     required: true
