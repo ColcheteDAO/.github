@@ -1,3 +1,9 @@
 name: New Features
 description: Features to improve the system
+body:
   - type: textarea
+  attributes:
+    label: What is this feature about?
+    description: Explain what is needed to enhance
+  validations:
+    required: true
