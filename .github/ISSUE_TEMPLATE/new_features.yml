@@ -1,5 +1,3 @@
 name: New Features
 description: Features to improve the system
   - type: textarea
-    attributes:
-      label: What is this feature about?
