@@ -1,5 +1,7 @@
 name: New Features
 description: Features to improve the system
+labels:
+  - enhancement
 body:
   - type: textarea
     attributes:
