@@ -7,3 +7,9 @@ body:
       description: Explain what is needed to enhance
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: What are the steps to do the feature?
+      description: List all needed tasks to be done for this feature
+    validations:
+      required: true
