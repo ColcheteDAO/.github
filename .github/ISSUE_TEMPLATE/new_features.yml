@@ -10,8 +10,8 @@ body:
   - type: textarea
     attributes:
       value: |
-          - [ ] Task
-          - [ ] Task
+          - [ ] Task 1
+          - [ ] Task 2
       label: What are the steps to do the feature?
       description: List all needed tasks to be done for this feature
     validations:
