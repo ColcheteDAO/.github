@@ -11,6 +11,7 @@ body:
     attributes:
       value: |
           - [ ] Task
+          - [ ] Task
       label: What are the steps to do the feature?
       description: List all needed tasks to be done for this feature
     validations:
